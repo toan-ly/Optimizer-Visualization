@@ -2,10 +2,11 @@
 ## Overview
 This project provides interactive visualizations to compare the convergence behavior of popular optimization algorithms that I implemented from scratch: 
 * __Gradient Descent__
-* __Gradient Descent with Momentum__
+* __Gradient Descent with Momentum (Momentum)__
 * __Nesterov Accelerated Gradient (NAG)__
-* __AdaGrad__
+* __Adaptive Gradient (AdaGrad)__
 * __RMSProp__
+* __AdaDelta__
 * __Adam__
   
 By observing the animations, you can gain valuable insights into how these algorithms navigate towards the global minimum of a cost function.
