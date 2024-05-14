@@ -7,7 +7,8 @@ This project provides interactive visualizations to compare the convergence beha
 * __Adaptive Gradient (AdaGrad)__
 * __RMSProp__
 * __AdaDelta__
-* __Adam__
+* __Adaptive Moment Estimation (Adam)__
+* __Nesterov-accelerated Adaptive Moment Estimation (Nadam)__
   
 By observing the animations, you can gain valuable insights into how these algorithms navigate towards the global minimum of a cost function.
 
