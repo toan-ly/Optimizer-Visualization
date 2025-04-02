@@ -1,6 +1,6 @@
 # Optimizer Visualization using MATLAB
 ## Overview
-This project provides interactive visualizations to compare the convergence behavior of popular optimization algorithms that I implemented from scratch on differnet mathematical functions/terrains:
+This project provides interactive visualizations to compare the convergence behavior of popular optimization algorithms that I implemented from scratch on different mathematical functions/terrains:
 * __Gradient Descent__
 * __Gradient Descent with Momentum (Momentum)__
 * __Nesterov Accelerated Gradient (NAG)__
@@ -8,9 +8,6 @@ This project provides interactive visualizations to compare the convergence beha
 * __RMSProp__
 * __AdaDelta__
 * __Adaptive Moment Estimation (Adam)__
-* __Nesterov-accelerated Adaptive Moment Estimation (Nadam)__
-* __AdamW__
-* __Ranger__
   
 By observing the animations, you can gain valuable insights into how these algorithms navigate towards the global minimum of a cost function.
 
